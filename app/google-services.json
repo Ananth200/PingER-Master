@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789711210138",
+    "firebase_url": "https://pingerold-master.firebaseio.com",
+    "project_id": "pingerold-master",
+    "storage_bucket": "pingerold-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789711210138:android:6d04efc0eb04f22a",
+        "android_client_info": {
+          "package_name": "com.hfad.pinger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789711210138-utnimnf8sb4lbeiet3flh79v00fga3i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.pinger",
+            "certificate_hash": "e62b9243443b66b98367ce934bde991786ab77cc"
+          }
+        },
+        {
+          "client_id": "789711210138-soqj0fmi4pk0g17uhbi63k14d8eanb43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB67SAdobvHfkMSEZJQWLvrf6kQSnGJqtY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789711210138-soqj0fmi4pk0g17uhbi63k14d8eanb43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
